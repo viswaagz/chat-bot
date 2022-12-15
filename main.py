@@ -47,3 +47,7 @@ def get_response(user_input):
 # testing the responce
 while True:
     print('Virtual assistant : ' + get_response(input('You: ')))
+    
+    #  output
+    # You: hii
+    #  Virtual assistant : hello!
