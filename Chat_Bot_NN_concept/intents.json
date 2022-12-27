@@ -1,0 +1,22 @@
+{"intents": [
+  {"tag": "greetings",
+  "patterns": ["hello","hey","hi","good day","whats up ?"],
+  "responce": ["Hello!","hey","what can i do for you"]
+  },
+  {"tag": "goodbye",
+  "patterns": ["see you later","goodbye","i am leaving","have a good day","bye"],
+  "responce": ["sad to see you","talk","what can i do for you"]
+  },
+  {"tag": "age",
+  "patterns": ["how old ","how old are you","what is your age","age ?"],
+  "responce": ["my owner 20 years old ","20 years"]
+  },
+  {"tag": "name",
+  "patterns": ["what is your name","name","who are you"],
+  "responce": ["i am nn "]
+  },
+  {"tag": "hours",
+  "patterns": ["what are you guys open","what are you hours"],
+  "responce": ["24/7"]
+  }
+]}
